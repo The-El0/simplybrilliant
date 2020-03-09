@@ -1,0 +1,2 @@
+# simplybrilliant
+migrate simplybrilliant.cz
